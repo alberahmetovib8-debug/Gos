@@ -13,7 +13,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 # ================= КОНФИГ =================
 BOT_TOKEN = "8651720338:AAHp6fkSc8dEATiUDTD09250-gW89sZGzrQ"
-ADMIN_IDS = [8315613104]
+ADMIN_IDS = [8510998917]
 
 # ================= БАЗА ДАННЫХ =================
 conn = sqlite3.connect("profit_bot.db", check_same_thread=False)
