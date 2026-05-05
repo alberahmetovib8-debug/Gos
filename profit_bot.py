@@ -12,7 +12,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # ================= КОНФИГ =================
-BOT_TOKEN = "8651720338:AAHp6fkSc8dEATiUDTD09250-gW89sZGzrQ"  # ЗАМЕНИ НА СВОЙ ТОКЕН
+BOT_TOKEN = "8651720338:AAHV4pjEllez8xeIgiaVbJ_MtrPIlAs5JaQ"  # ЗАМЕНИ НА СВОЙ ТОКЕН
 ADMIN_IDS = [8315613104]  # ЗАМЕНИ НА СВОЙ TELEGRAM ID
 
 # ================= БАЗА ДАННЫХ =================
