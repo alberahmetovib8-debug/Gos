@@ -12,7 +12,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # ================= КОНФИГ =================
-BOT_TOKEN = "8651720338:AAEBysbdW3fxbMuGi99KSqnwCaQqWzBui3  Q"
+BOT_TOKEN = "8651720338:AAHp6fkSc8dEATiUDTD09250-gW89sZGzrQ"
 ADMIN_IDS = [8315613104]
 
 # ================= БАЗА ДАННЫХ =================
